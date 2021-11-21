@@ -23,7 +23,7 @@
     
 Soru | Cevap
 --- | --- 
-Bilgisayarım  | Monster Tulpar T7 V20.3
+Bilgisayarım  | asus
 Editör  | Visual Studio Code, Linux Kali
 Yazdığım Platformlar | Desktop, Mobile, Web
 Bildiğim Diller  |   Python
