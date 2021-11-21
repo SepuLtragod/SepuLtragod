@@ -25,12 +25,12 @@ Soru | Cevap
 --- | --- 
 Bilgisayarım  | Monster Tulpar T7 V20.3
 Editör  | Visual Studio Code, Linux Kali
-Yazdığım Platformlar | Desktop, Mobile, Web, CLI
-Bildiğim Diller  |  JS, Python, C++, PHP, Html, LuaScript
+Yazdığım Platformlar | Desktop, Mobile, Web
+Bildiğim Diller  |   Python
 Öğrenmeye Çalıştığım Diller | c#
 
     
 <h3 align="left">Sosyal Medya:</h3>
 <p align="left">
-<a href="https://www.instagram.com/sakirbey81/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anonimxx197" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sep.ultragod/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anonimxx197" height="30" width="40" /></a>
 <a href="https://t.me/SepuLtragod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="anonimxx197" height="30" width="40" /></a>
